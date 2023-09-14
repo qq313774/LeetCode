@@ -1,4 +1,5 @@
 //1929. Concatenation of Array
+
 class Solution {
   public int[] getConcatenation(int[] nums) {
     final int n = nums.length;
